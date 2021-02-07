@@ -1,0 +1,181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SF/Marin Food Bank ",
+        "Address": "900 Pennsylvania Avenue San Francisco, CA 94107",
+        "Address_1": "900 Pennsylvania Avenue",
+        "City": "San Francisco ",
+        "State_Province": "California",
+        "Zip_Code": "94107",
+        "Country_ISO3166_Alpha2": "US",
+        "Phone": "[+1] 415-282-1900",
+        "Donate": "https://donate.sfmfoodbank.org/page/5009/donate/1",
+        "Volunteer": "https://www.sfmfoodbank.org/volunteer/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3938076,
+          37.7545039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SF City Impact",
+        "Address": "136 Taylor Street San Francisco, CA 94102",
+        "Address_1": "136 Taylor Street ",
+        "City": "San Francisco ",
+        "State_Province": "California",
+        "Zip_Code": "94102",
+        "Country_ISO3166_Alpha2": "US",
+        "Phone": "[+1] 415-292-1770",
+        "Donate": "https://secure.qgiv.com/for/sfci/",
+        "Volunteer": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4107321,
+          37.7837642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "St Anthony's",
+        "Address": "150 Golden Gate Avenue San Francisco, CA 94102",
+        "Address_1": "150 Golden Gate Avenue",
+        "City": "San Francisco ",
+        "State_Province": "California",
+        "Zip_Code": "94102",
+        "Country_ISO3166_Alpha2": "US",
+        "Phone": "[+1] 415-241-2600",
+        "Donate": "https://www.stanthonysf.org/donate/",
+        "Volunteer": "https://www.stanthonysf.org/volunteer/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.413234,
+          37.7822291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "GLIDE Memorial ",
+        "Address": "330 Ellis Street San Francisco, CA 94102",
+        "Address_1": "330 Ellis Street ",
+        "City": "San Francisco ",
+        "State_Province": "California",
+        "Zip_Code": "94102",
+        "Country_ISO3166_Alpha2": "US",
+        "Phone": "[+1] 415-674-6000",
+        "Donate": "https://www.glide.org/donate/",
+        "Volunteer": "http://volunteer.glide.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.411464,
+          37.7852299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Food Runners",
+        "Address": "2579 Washington St, San Francisco, CA 94115",
+        "Address_1": "2579 Washington St.",
+        "City": "San Francisco ",
+        "State_Province": "California",
+        "Zip_Code": "94115",
+        "Country_ISO3166_Alpha2": "US",
+        "Phone": "[+1] 415-929-1866",
+        "Donate": "http://www.foodrunners.org/donate-food/",
+        "Volunteer": "http://www.foodrunners.org/donate-time/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4355953,
+          37.7913031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Alameda County Food Bank",
+        "Address": "7900 Edgewater Dr, Oakland, CA 94621",
+        "Address_1": "7900 Edgewater Dr. ",
+        "City": "Oakland",
+        "State_Province": "California",
+        "Zip_Code": "94621",
+        "Country_ISO3166_Alpha2": "US",
+        "Phone": "[+1] 510-635-3663",
+        "Donate": "https://donate.accfb.org/",
+        "Volunteer": "https://www.accfb.org/get-involved/volunteer/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2013871,
+          37.7415255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Food Bank of Contra Costa and Solano",
+        "Address": "2339 Courage Dr, Fairfield, CA 94533",
+        "Address_1": "2339 Courage Dr. ",
+        "City": "Fairfield",
+        "State_Province": "California",
+        "Zip_Code": "94533",
+        "Country_ISO3166_Alpha2": "US",
+        "Phone": "[+1] 707-421-9777",
+        "Donate": "https://www.foodbankccs.org/give-help/donate/donate-food/ccs-food-project/donate-food.html",
+        "Volunteer": "https://volunteer.foodbankccs.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0760792,
+          38.2339597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Loaves and Fishes of Contra Costa County",
+        "Address": "835 Ferry St, Martinez, CA 94553",
+        "Address_1": "835 Ferry St.",
+        "City": "Martinez ",
+        "State_Province": "California",
+        "Zip_Code": "94533",
+        "Country_ISO3166_Alpha2": "US",
+        "Phone": "[+1] 925-293-4792",
+        "Donate": "https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E345720&id=1",
+        "Volunteer": "https://www.loavesfishescc.org/vol_landing.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1347298,
+          38.0167957
+        ]
+      }
+    }
+  ]
+}
